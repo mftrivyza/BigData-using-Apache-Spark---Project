@@ -3,6 +3,6 @@
 Semester project in "Big Data" course of "Data Science and Machine Learning" MSc from ECE, NTUA.
 
 
-Marilia Trivyza
+Marilia Trivyza @mftrivyza
 
-Konstantina Karaiskou
+Konstantina Karaiskou @KonnaKar
