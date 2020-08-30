@@ -1,0 +1,59 @@
+[nltk_data] Downloading package stopwords to /home/user/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+['credit', 'account', 'report', 'information', 'payment', 'would', 'loan', 'debt', 'bank', 'told', 'company', 'received', 'card', 'called', 'time', 'never', 'payments', 'sent', 'reporting', 'letter', 'pay', 'back', 'paid', 'get', 'also', 'mortgage', 'call', 'amount', 'said', 'made', 'due', 'one', 'accounts', 'number', 'phone', 'could', 'days', 'balance', 'money', 'late', 'collection', 'still', 'since', 'asked', 'nt', 'consumer', 'date', 'years', 'please', 'even', 'name', 'contacted', 'home', 'dispute', 'file', 'make', 'check', 'month', 'request', 'interest', 'removed', 'us', 'months', 'times', 'service', 'new', 'reported', 'help', 'day', 'address', 'agency', 'complaint', 'know', 'requested', 'several', 'stated', 'equifax', 'contact', 'first', 'provide', 'loans', 'another', 'like', 'need', 'remove', 'see', 'without', 'send', 'fraud', 'closed', 'proof', 'email', 'last', 'bureaus', 'original', 'issue', 'identity', 'fees', 'customer', 'want', 'bill', 'went', 'business', 'documents', 'however', 'year', 'charge', 'two', 'take', 'provided', 'well', 'full', 'mail', 'calls', 'filed', 'stating', 'chase', 'financial', 'got', 'going', 'statement', 'spoke', 'trying', 'inquiry', 'fraudulent', 'theft', 'past', 'work', 'score', 'tried', 'charges', 'copy', 'disputed', 'law', 'able', 'notice', 'insurance', 'receive', 'fee', 'process', 'experian', 'owe', 'informed', 'online', 'reports', 'wells', 'opened', 'representative', 'response', 'charged']
++-----+------+
+|label| count|
++-----+------+
+|  8.0| 14851|
+|  0.0|142982|
+|  7.0| 18807|
+|  1.0|106560|
+|  4.0| 31456|
+| 11.0|  7901|
+|  3.0| 32094|
+|  2.0| 61403|
+| 10.0|  8229|
+|  6.0| 19045|
+|  5.0| 25131|
+|  9.0|  9438|
+| 12.0|  6451|
++-----+------+
+
++-----+------+
+|label| count|
++-----+------+
+|  8.0| 11029|
+|  0.0|107420|
+|  7.0| 14047|
+|  1.0| 79831|
+|  4.0| 23551|
+| 11.0|  5871|
+|  3.0| 24224|
+|  2.0| 46099|
+| 10.0|  6251|
+|  6.0| 14334|
+|  5.0| 18851|
+|  9.0|  7014|
+| 12.0|  4791|
++-----+------+
+
++-----+-----+
+|label|count|
++-----+-----+
+|  8.0| 3747|
+|  0.0|19686|
+|  7.0| 4624|
+|  1.0|22589|
+|  4.0| 6454|
+| 11.0| 1973|
+|  3.0| 7481|
+|  2.0|15080|
+| 10.0| 1909|
+|  6.0| 4637|
+|  5.0| 6130|
+|  9.0| 2382|
+| 12.0| 1632|
++-----+-----+
+
+Time of fit of cached trainset: 414.64018535614014 seconds
+Test set accuracy of cached trainset = 0.6176635105311867
